@@ -30,7 +30,7 @@ export default function Header() {
         gap: '8px'
       }}>
         <span>🇵🇭</span>
-        <span>Republic of the Philippines · Province of Nueva Ecija · Municipality of Nampicuan</span>
+        <span>Republic of the Philippines · Province of Leyte · Municipality of Merida</span>
       </div>
 
       {/* Main nav */}
@@ -59,7 +59,7 @@ export default function Header() {
               Barangay Calunangan
             </div>
             <div style={{ color: 'rgba(255,255,255,0.6)', fontSize: '11px' }}>
-              Nampicuan, Nueva Ecija · Official Website
+              Merida, Leyte · Official Website
             </div>
           </div>
         </Link>

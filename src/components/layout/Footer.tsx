@@ -48,13 +48,13 @@ export default function Footer() {
               Barangay Calunangan
             </div>
             <div style={{ color: 'rgba(255,255,255,0.6)', fontSize: '12px', lineHeight: '1.7' }}>
-              Nampicuan, Nueva Ecija<br />
+              Merida, Leyte<br />
               Republic of the Philippines
             </div>
             <div style={{ marginTop: '12px', display: 'flex', gap: '8px', alignItems: 'flex-start' }}>
               <MapPin size={14} color="rgba(255,255,255,0.5)" style={{ marginTop: '2px', flexShrink: 0 }} />
               <span style={{ color: 'rgba(255,255,255,0.5)', fontSize: '12px', lineHeight: '1.6' }}>
-                Barangay Hall, Calunangan,<br />Nampicuan, Nueva Ecija
+                Purok 3, Calunangan,<br />Merida, Leyte
               </span>
             </div>
           </div>
